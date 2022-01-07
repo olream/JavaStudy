@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day3_68_87/day3_68_87.iml" filepath="$PROJECT_DIR$/day3_68_87/day3_68_87.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day4_89_110/day4_89_110.iml" filepath="$PROJECT_DIR$/day4_89_110/day4_89_110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day3_66_87_operation/day3_66_87_operation.iml" filepath="$PROJECT_DIR$/day3_66_87_operation/day3_66_87_operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4_88_108scanner_if_switch_for/day4_88_108scanner_if_switch_for.iml" filepath="$PROJECT_DIR$/day4_88_108scanner_if_switch_for/day4_88_108scanner_if_switch_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day5_109_131/day5_109_131.iml" filepath="$PROJECT_DIR$/day5_109_131/day5_109_131.iml" />
     </modules>
   </component>
 </project>
